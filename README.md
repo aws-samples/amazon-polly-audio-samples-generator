@@ -5,6 +5,10 @@ for all by Amazon Polly supported all languages, and all voices for each languag
 or an individual engine.
 
 
+### Flow Overview
+
+![AmazonPollyFlow](images/AmazonPollyFlow.png)
+
 ### Prerequisites
 - AWS Account with sufficient [AWS Identity and Access Management (IAM)](https://aws.amazon.com/iam/) permissions.
 - [Python 3.8](https://www.python.org/downloads/) or later and
@@ -16,9 +20,6 @@ or an individual engine.
 - Install python dependencies
     - `pip install -r ./requirements.txt`
 
-### Flow Overview
-
-![AmazonPollyFlow](images/AmazonPollyFlow.png)
 
 ### How to use this tool
 All you need to do is to run the command below to generate sample audio files for `neural` and `standard` engines.
