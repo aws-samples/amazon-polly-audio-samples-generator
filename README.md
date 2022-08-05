@@ -16,6 +16,10 @@ or an individual engine.
 - Install python dependencies
     - `pip install -r ./requirements.txt`
 
+### Flow Overview
+
+![AmazonPollyFlow](images/AmazonPollyFlow.png)
+
 ### How to use this tool
 All you need to do is to run the command below to generate sample audio files for `neural` and `standard` engines.
 
